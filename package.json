@@ -1,0 +1,31 @@
+{
+  "name": "up-down-left-right",
+  "version": "1.0.0",
+  "description": "texts you the free answer of the day...everyday",
+  "main": "up-down-left-right.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "q": "^1.4.1",
+    "request": "^2.74.0",
+    "twilio": "^2.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tshamz/up-down-left-right.git"
+  },
+  "keywords": [
+    "flat-screen",
+    "tvs",
+    "bow-staffs"
+  ],
+  "author": "tshamz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tshamz/up-down-left-right/issues"
+  },
+  "homepage": "https://github.com/tshamz/up-down-left-right#readme"
+}
